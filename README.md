@@ -1,2 +1,2 @@
 # Virus-
-None
+pip install pyautogui
